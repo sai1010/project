@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>project</name>
-  <version>0.0.0</version>
+  <name>sai1234</name>
+  <version>0.1.2.3</version>
   <description>Reinforcement learnings with DDPG</description>
   <maintainer email="dranaju@gmail.com">Dranaju</maintainer>
   <license>TODO</license>
@@ -17,3 +17,4 @@
 
   </export>
 </package>
+</packbags>
